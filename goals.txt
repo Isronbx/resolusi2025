@@ -1,7 +1,6 @@
 
 	Goals yang di peroleh selama di 2024
-
-		1. bisa console.log di javaScript dan membuat Hello Word
+		1. bisa membut website yang menarik
 		2. bisa membuat Landing Page
 		3. bisa menggunakan Boostrap dalam pembuatan Website
 		4. memahami DataBase MySQL
